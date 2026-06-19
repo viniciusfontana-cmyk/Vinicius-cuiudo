@@ -8,15 +8,15 @@
 
 /* Estilo do Corpo (Body) */
 body {
-    background-color: #f4f7f6; /* Cor de fundo suave */
-    color: #333; /* Cor do texto principal */
+    background-color: #47d124; /* Cor de fundo suave */
+    color: #1acce4; /* Cor do texto principal */
     transition: background-color 0.5s ease; /* Efeito suave quando o JS mudar a cor */
 }
 
 /* Estilo do Cabeçalho */
 header {
-    background-color: #4A90E2; /* Cor azul moderna */
-    color: white;
+    background-color: #eaed14; /* Cor azul moderna */
+    color: rgb(91, 25, 215);
     text-align: center;
     padding: 40px 20px;
 }
@@ -35,11 +35,11 @@ header h1 {
 
 /* Estilo dos Blocos de Conteúdo (Cards) */
 .card {
-    background-color: white;
+    background-color: rgb(9, 9, 9);
     padding: 25px;
     border-radius: 8px; /* Bordas arredondadas */
     margin-bottom: 20px; /* Espaço entre um card e outro */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra leve */
+    box-shadow: 0 4px 6px rgb(247, 3, 235); /* Sombra leve */
 }
 
 .card h2 {
